@@ -1,0 +1,2 @@
+# test-pkg-trust-plain
+
